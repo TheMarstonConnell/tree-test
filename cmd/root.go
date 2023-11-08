@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
+	"github.com/TheMarstonConnell/tree-test/tree"
 	"os"
-	"tree-test/tree"
 )
 import "github.com/spf13/cobra"
 

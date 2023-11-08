@@ -1,6 +1,6 @@
 package main
 
-import "tree-test/cmd"
+import "github.com/TheMarstonConnell/tree-test/cmd"
 
 func main() {
 	cmd.Execute()

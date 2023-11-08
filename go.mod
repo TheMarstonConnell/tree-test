@@ -1,4 +1,4 @@
-module tree-test
+module github.com/TheMarstonConnell/tree-test
 
 go 1.21
 
