@@ -4,7 +4,7 @@ This repo is a cli tool for testing the creation of merkle trees on files.
 
 ## Install
 ```shell
-go install github.com/TheMarstonConnell/tree-test@latest
+go install github.com/TheMarstonConnell/tree-test@v0.0.0
 ```
 
 ## Usage
