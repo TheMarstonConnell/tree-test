@@ -16,3 +16,5 @@ require (
 	github.com/wealdtech/go-merkletree/v2 v2.5.1-0.20231106114422-6769f4468d71
 
 )
+
+replace github.com/wealdtech/go-merkletree/v2 => github.com/TheMarstonConnell/go-merkletree/v2 v2.0.0-20231109200619-36b6cf3782f3

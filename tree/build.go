@@ -12,8 +12,6 @@ import (
 )
 
 func buildTree(buf io.Reader, chunkSize int64) []byte {
-	size := 0
-
 	data := make([][]byte, 0)
 	chunks := make([][]byte, 0)
 
@@ -28,8 +26,6 @@ func buildTree(buf io.Reader, chunkSize int64) []byte {
 		}
 
 		b = b[:read]
-
-		size += read
 
 		chunks = append(chunks, b)
 
