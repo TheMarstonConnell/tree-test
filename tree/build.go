@@ -13,7 +13,6 @@ import (
 
 func buildTree(buf io.Reader, chunkSize int64) []byte {
 	data := make([][]byte, 0)
-	chunks := make([][]byte, 0)
 
 	index := 0
 
@@ -26,8 +25,6 @@ func buildTree(buf io.Reader, chunkSize int64) []byte {
 		}
 
 		b = b[:read]
-
-		chunks = append(chunks, b)
 
 		hexedData := hex.EncodeToString(b)
 

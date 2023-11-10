@@ -1,5 +1,5 @@
-github.com/TheMarstonConnell/go-merkletree/v2 v2.0.0-20231109200619-36b6cf3782f3 h1:80/uEghI5Uuz04IiJpPFbmNNlwVRcXwPPeAW2BfqsYY=
-github.com/TheMarstonConnell/go-merkletree/v2 v2.0.0-20231109200619-36b6cf3782f3/go.mod h1:NL3IVC+cwXMegkCY4SyPPMee3sYIBM+msyFOEhQS+qM=
+github.com/TheMarstonConnell/go-merkletree/v2 v2.0.0-20231110145558-a84ff065b3ac h1:PTisEBgft5GGInBJoKzeTNqQC10XHjaJr+PBaqyACMI=
+github.com/TheMarstonConnell/go-merkletree/v2 v2.0.0-20231110145558-a84ff065b3ac/go.mod h1:NL3IVC+cwXMegkCY4SyPPMee3sYIBM+msyFOEhQS+qM=
 github.com/cpuguy83/go-md2man/v2 v2.0.3/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
